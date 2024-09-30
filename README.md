@@ -40,6 +40,7 @@ Aquí se puede notar un decrecimiento del Dial en el periodo que Enacom nos obse
 
 En contra posición a Dial, la Banda Ancha vive un incremento constante en el mismo periodo de tiempo. Creo que esto se debe a que es un mejor servicio que Dial y que por eso la población lo utiliza más.
 
+![Evolución Dial](img/banda.png)
 #### Dashboard
 
 En el archivo del Dashboard hay información que lo cubrí en este formato porque me parece más adecuado. Esta información son los Ingresos,la cantidad de Accesos por hogares,el Acceso a la tecnología y las velocidades de internet en las provincias; sumado al hecho que hay KPIS que solo están en ese formato.
